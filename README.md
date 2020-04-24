@@ -1,3 +1,5 @@
 # RandomPython
 
-# Install pyautogui and run this program in a chat window on desktop iMessage
+# Install pyautogui
+
+# Run this program and then move your cursor to a chat window on desktop iMessage
