@@ -4,4 +4,4 @@ script = "According to all known laws of aviation, there is no way that a bee sh
 for x in script.split():
     pyautogui.write(x)
     pyautogui.press("enter")
-
+#very nice project 
